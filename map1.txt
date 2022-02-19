@@ -1,0 +1,12 @@
+Bhopal south=Guna east=Sagar
+Indore south=Katni west=Sagar
+Gwalior south=Delhi east=Jabalpur west=Guna
+Jabalpur north=Sagar south=Banglore east=Katni west=Gwalior
+Katni north=Indore south=Noida west=Jabalpur
+Sagar south=Jabalpur east=Indore west=Bhopal
+Guna north=Bhopal south=Shajapur east=Gwalior
+Shajapur north=Guna south=Mumbai east=Delhi
+Delhi north=Gwalior east=Noida west=Shajapur
+Noida north=Katni west=Delhi
+Mumbai north=Shajapur east=Banglore
+Banglore north=Jabalpur west=Mumbai
